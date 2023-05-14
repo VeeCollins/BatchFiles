@@ -1,5 +1,6 @@
-Automation for setting up and optimising workstation for:
+Automation for setting up and optimising workstation for: <br />
+<br />
 
-OBS Live broadcast with Traktor
-OBS Recording with Traktor
-Traktor recording
+OBS Live broadcast with Traktor <br />
+OBS Recording with Traktor <br />
+Traktor recording <br />
